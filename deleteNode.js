@@ -47,3 +47,7 @@ var deleteNode = function (root, key) {
 deleteNode(tree, 5);
 
 console.log(tree);
+
+for (let index = 0; index < array.length; index++) {
+  const element = array[index];
+}
