@@ -123,7 +123,5 @@ Promise.myAllSettled = function (promises) {
         }
       }
     });
-
-    return results;
   });
 };
